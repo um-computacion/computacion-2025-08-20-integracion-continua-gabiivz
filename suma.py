@@ -1,5 +1,4 @@
-def main(name):
-    pass
+
 def suma (a, b) :
 
     return a + b
